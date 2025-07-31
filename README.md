@@ -2,7 +2,7 @@
 - 👀 I’m interested in python programming, PostgreSQL, 
 - 🌱 I’m currently learning PostgreSQL, Django and django-rest-framework
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me You can reach me on instagram: @dominikbucenec, or through e-mail: Db210420033@gmail.com
+- 📫 How to reach me You can reach me on instagram: @dominikbucenec, or thro
 
 <!---
 bucenecdominik/bucenecdominik is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
